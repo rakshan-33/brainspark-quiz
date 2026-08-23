@@ -50,7 +50,7 @@ A full-stack quiz application with user authentication, MongoDB persistence, cat
 Clone the repository and install dependencies:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/rakshan-33/brainspark-quiz.git
 cd quizzzz
 npm install
 ```
